@@ -67,11 +67,16 @@ git clone  https://github.com/VivianGomez/BottlesShooter-
 12. Conect the Oculus Go to your PC using the USB cable
 13. Click on File > Build and Run, and verify that you have the following configuration
 
-https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/buildandRun.PNG
+![BR](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/buildandRun.PNG)
 
 **Note:** If you do not have able the Android Plattaform, you must dowload it from Unity page or the assistant of Unity show to you a download button in the same window of Build and Run.
 
-8. When you have the same configuration of the picture, you can click on Build and run, and wait that the app be executed on your conected device.
+14 Activate the VR configuration at the same window:
+![VR](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/VR.PNG)
+
+**Note**: If you need more explanation about the VR and Oculus configuration, use this [official guide](https://developer.oculus.com/documentation/unity/latest/concepts/book-unity-gsg/)
+
+15. When you have the same configuration of the picture, you can click on Build and run, and wait that the app be executed on your conected device.
 
 
 
