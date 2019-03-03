@@ -20,8 +20,8 @@ The controller of the Oculus Go is used to handle the weapon and in it, the Prim
 
 
 4. Create the Environment variables:
-4.1 Found "Environment variables" with Windows search
-4.2 This will open the following window, in which you must to click in "Environment variables"
+4.1 Found "Environment variables" with Windows search.
+4.2 This will open the following window, in which you must to click in "Environment variables".
 
 4.3 Create the variables like is showed in the next picture (the route can change with your system username, please verify this)
 
