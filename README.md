@@ -1,7 +1,7 @@
 # BottlesShooter-
 This is a demo to interact with Oculus Go and Unity technologies, throughout the immersion in a farm in which you can shoot to bottles.
 
-![MUP](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/mup.PNG)
+![Preview](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/mup.PNG)
 
 
 ### Description
