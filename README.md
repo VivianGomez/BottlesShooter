@@ -1,6 +1,9 @@
 # BottlesShooter-
 This is a demo to interact with Oculus Go and Unity technologies, throughout the immersion in a farm in which you can shoot to bottles.
 
+![MUP](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/mup.PNG)
+
+
 ### Description
 
 For this first approach and interaction with technologies and devices of Mixed Reality, I decided to use the Oculus Go (VR), to make a small demo in the Unity development environment and using the C # programming language.
