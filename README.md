@@ -25,7 +25,6 @@ The controller of the Oculus Go is used to handle the weapon and in it, the Prim
 3. Using the Android IDE we need install the tools, like ndk, adb, etc. For this, you need follow this pictues that explain the configuration and instalation:
 
 ![Android Configurations](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/0.PNG)
-![Project structure](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/1.PNG)
 ![Settings1](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/sett1.PNG)
 ![Settings2](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/sett2.PNG)
 ![EVWindow](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/finallsett.PNG)
@@ -33,6 +32,9 @@ The controller of the Oculus Go is used to handle the weapon and in it, the Prim
 _
 
 Too see the routes of SDK, JDK and JRE
+
+![Project structure](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/1.PNG)
+_
 
 ![Routes](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/2.PNG)
 
