@@ -28,7 +28,7 @@ The controller of the Oculus Go is used to handle the weapon and in it, the Prim
 ![Project structure](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/1.PNG)
 ![Settings1](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/sett1.PNG)
 ![Settings2](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/sett2.PNG)
-![FinalSettings](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/sett2.PNG)
+![EVWindow](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/finallsett.PNG)
 
 _
 
@@ -41,7 +41,7 @@ Too see the routes of SDK, JDK and JRE
 5. Found "Environment variables" with Windows search.
 6. This will open the following window, in which you must to click in "Environment variables".
 
-![EVWindow](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/finallsett.PNG)
+![EVWindow](https://raw.githubusercontent.com/VivianGomez/BottlesShooter-/master/Tutorial/search.PNG)
 
 7. Create the variables like is showed in the next picture (the route can change with your system username,in my case is Vivian, but please verify this)
 
